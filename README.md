@@ -1,2 +1,2 @@
 # test
-first init
+this is my first init
